@@ -14,7 +14,7 @@ Previously, I obtained my bachelor's degree in Remote Sensing Science and Techno
 
 News
 ------
-2025.09 One paper is accepted by [IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4609443)!
+2025.09 One paper is accepted by [IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4609443)!  
 2025.07 One paper is accepted by [IEEE Transactions on Geoscience and Remote Sensing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36)!  
 2024.06 Happy Graduation!  
 2024.03 One paper is accepted by [IGARSS 2024](https://2024.ieeeigarss.org/index.php) (As an Oral Presentation)!  
