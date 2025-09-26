@@ -8,9 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I'm a master's student of Applied Computational Science and Engineering in the [Department of Earth Science and Engineering](https://www.imperial.ac.uk/earth-science/) at [Imperial College London](https://www.imperial.ac.uk/). My research interests include but are not limited to remote sensing, computer vision, and polar studies. I am always open to discussions and look forward to exchanging ideas!  
-
-Previously, I obtained my bachelor's degree in Remote Sensing Science and Technology from the [School of Geospatial Engineering and Science](https://sges.sysu.edu.cn/) at [Sun Yat-sen University](https://www.sysu.edu.cn/) in 2024. I was supervised by [Prof. Xu Huang](https://sges.sysu.edu.cn/teacher/603) of the [3D Information Acquisition and Processing Team](https://sges.sysu.edu.cn/team/02), where I focused on feature matching under challenging conditions. I also conducted research on subglacial lakes beneath the Greenland Ice Sheet under the supervision of [Prof. Qi Liang](https://sges.sysu.edu.cn/teacher/605) from the [Polar Science Center Sun Yat-sen University](https://psc.sysu.edu.cn/), utilizing remote sensing data to detect and analyze the filling and drainage of these lakes.
+✨ 世界璀璨盛大，欢迎回家 ✨  
+✨ The world shines in all its splendor, welcome home ✨
 
 News
 ------
